@@ -234,7 +234,7 @@ int main()
 
 ## Unguided
 
-### 1. Buatlah ADT Singly Linked list sebagai berikut di dalam file “Doublylist”:
+### Buatlah ADT Stack menggunakan ARRAY sebagai berikut di dalam file “stack.h”:
 
 ## Stack.h
 
@@ -375,6 +375,8 @@ Isi stack berubah seperti ini: [3,4,8], pop jadi [3,4], push 2 dan 3 jadi [3,4,2
 
 ![Screenshot Output Unguided](https://github.com/imrtn/Modul-7-Struktur-Data/blob/b380da5377bc0cf376cf105ada8757c84205de75/Modul%207/Output/mainsatu.png)
 
+### Tambahkan prosedur pushAscending( in/out S : Stack, in x : integer):
+
 ## mainDua.cpp
 
 ```C++
@@ -406,6 +408,10 @@ Semua data dimasukkan dengan pushAscending, sehingga isi stack otomatis terurut 
 
 ![Screenshot Output Unguided](https://github.com/imrtn/Modul-7-Struktur-Data/blob/b380da5377bc0cf376cf105ada8757c84205de75/Modul%207/Output/maindua.png
 )
+
+### Tambahkan prosedur getInputStream( in/out S : Stack ). Prosedur akan terus membaca dan
+menerima input user dan memasukkan setiap input ke dalam stack hingga user menekan
+tombol enter. Contoh: gunakan cin.get() untuk mendapatkan inputan user.
 
 ## mainTiga.cpp
 
