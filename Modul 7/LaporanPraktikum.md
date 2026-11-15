@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 6 - DOUBLY LINKED LIST (BAGIAN PERTAMA) </h1>
+# <h1 align="center">Laporan Praktikum Modul 7 - STACK </h1>
 
 <p align="center">Imroatun Sholikha - 109082500111</p>
 
@@ -373,7 +373,7 @@ Isi stack berubah seperti ini: [3,4,8], pop jadi [3,4], push 2 dan 3 jadi [3,4,2
 
 ##### Output 1
 
-![Screenshot Output Unguided]()
+![Screenshot Output Unguided](https://github.com/imrtn/Modul-7-Struktur-Data/blob/b380da5377bc0cf376cf105ada8757c84205de75/Modul%207/Output/mainsatu.png)
 
 ## mainDua.cpp
 
@@ -404,7 +404,8 @@ Semua data dimasukkan dengan pushAscending, sehingga isi stack otomatis terurut 
 
 ##### Output 2
 
-![Screenshot Output Unguided]()
+![Screenshot Output Unguided](https://github.com/imrtn/Modul-7-Struktur-Data/blob/b380da5377bc0cf376cf105ada8757c84205de75/Modul%207/Output/maindua.png
+)
 
 ## mainTiga.cpp
 
@@ -430,7 +431,7 @@ int main() {
 
 ##### Output 3
 
-![Screenshot Output Unguided]()
+![Screenshot Output Unguided](https://github.com/imrtn/Modul-7-Struktur-Data/blob/b380da5377bc0cf376cf105ada8757c84205de75/Modul%207/Output/maintiga.png)
 
 ## Kesimpulan
 
